@@ -10,6 +10,8 @@ function Navbar() {
         <ul className="navbarlist">
 <li className="navbar-item"> <Link to="/">Home</Link></li>
 <li className="navbar-item"><Link to= "/men">Men</Link></li>
+<li className="navbar-item"><Link to= "/women">Women</Link></li>
+<li className="navbar-item"><Link to= "/kids">Kids</Link></li>
 <li className="navbar-item"><Link to= "/about">About</Link></li>
 <li className="navbar-item"><a href="#">Contact</a></li>
         </ul>
