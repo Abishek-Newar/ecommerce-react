@@ -9,7 +9,7 @@ function Navbar() {
     <nav className="navbar"> <h1><SiBigcommerce />Basket</h1>
         <ul className="navbarlist">
 <li className="navbar-item"> <Link to="/">Home</Link></li>
-<li className="navbar-item"><a href="#latest">Latest Products</a></li>
+<li className="navbar-item"><Link to= "/men">Men</Link></li>
 <li className="navbar-item"><Link to= "/about">About</Link></li>
 <li className="navbar-item"><a href="#">Contact</a></li>
         </ul>
